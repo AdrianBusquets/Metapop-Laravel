@@ -343,14 +343,14 @@ p{
 
 /*************Footer**************/
 .piedepagina{
-    background-color: var(--white);
-    border-top: 5px solid;
-    border-color: var(--secondary);
     width: 100vw;
 }
 
 .contenedorfooter{
     margin-top: 15vh;
+    background-color: var(--white);
+    border-top: 5px solid;
+    border-color: var(--secondary);
 }
 
 
